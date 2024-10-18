@@ -11,6 +11,14 @@ import image9 from '../assets/slider/image9.jpeg';
 import image10 from '../assets/slider/image10.jpeg';
 import image11 from '../assets/slider/image11.jpeg';
 import image12 from '../assets/slider/image12.jpeg';
+import image13 from '../assets/slider/image13.jpeg'
+import image14 from '../assets/slider/image14.jpeg'
+import image15 from '../assets/slider/image15.jpeg'
+import image16 from '../assets/slider/image16.jpeg'
+import image17 from '../assets/slider/image17.jpeg'
+import video1 from '../assets/slider/video1.mp4'
+
+
 
 import { useNavigate } from "react-router-dom";
 
@@ -86,6 +94,42 @@ const Carousel = () => {
     },
     {
       image: image12,
+      title: "Training",
+      description: "Specialized in customized training as well as ISO system, management, skilled and soft skills training programs.",
+      buttonText: "Know More",
+    },
+    {
+      image: image13,
+      title: "Training",
+      description: "Specialized in customized training as well as ISO system, management, skilled and soft skills training programs.",
+      buttonText: "Know More",
+    },
+    {
+      image: image14,
+      title: "Training",
+      description: "Specialized in customized training as well as ISO system, management, skilled and soft skills training programs.",
+      buttonText: "Know More",
+    },
+    {
+      image: image15,
+      title: "Training",
+      description: "Specialized in customized training as well as ISO system, management, skilled and soft skills training programs.",
+      buttonText: "Know More",
+    },
+    {
+      image: image16,
+      title: "Training",
+      description: "Specialized in customized training as well as ISO system, management, skilled and soft skills training programs.",
+      buttonText: "Know More",
+    },
+    {
+      image: image17,
+      title: "Training",
+      description: "Specialized in customized training as well as ISO system, management, skilled and soft skills training programs.",
+      buttonText: "Know More",
+    },
+    {
+      image: video1,
       title: "Training",
       description: "Specialized in customized training as well as ISO system, management, skilled and soft skills training programs.",
       buttonText: "Know More",
